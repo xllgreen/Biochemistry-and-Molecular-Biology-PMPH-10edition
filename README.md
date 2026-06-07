@@ -52,7 +52,19 @@
 
 **参考教材**：人民卫生出版社《生物化学与分子生物学》第 10 版（ISBN: 978-7-117-36618-8）
 
-**⚠️风险⚠️**：本技能内容基于教材整理，仅供教育学习参考。涉及临床诊断或治疗决策的内容须经合格临床医生审核。
+
+**⚠️风险⚠️**：医学、遗传、法医和湿实验室产出若未经专家审核使用，可能不完整或不安全。
+
+缓解措施：仅将该技能作为教育参考材料使用，并保持诊断、治疗、法医结论和实验室工作在合格的人类监督之下。
+
+**⚠️风险⚠️**：部分技能提供高风险的临床、遗传、法医和湿实验室指导，但缺乏足够的技能保障。
+
+缓解措施：不得将产出作为诊断、治疗、基因治疗设计、法医结论或涉及危险化学品或基因操作的实验室工作的唯一依据。
+
+**⚠️风险⚠️**：该发布仅限书本，但涵盖了可能被误用的临床和生物医学主题。
+
+缓解措施：在采取行动前，将特定主题的产出与权威的医学、机构和实验室标准进行审查。
+
 
 ## 项目结构
 
@@ -79,7 +91,19 @@ Biochemistry-MolecularBiology-PMPH-10edition/
 
 CLI：
 ```bash
-openclaw skills install biochemistry-molecular-biology-pmph-10edition
+openclaw skills install biochemistry-and-molecular-biology-pmph-10edition
+```
+
+Prompt：
+```bash
+Before installing anything, inspect the ClawHub skill metadata and setup requirements.
+If the skill asks you to install a third-party package or CLI, verify its source, maintainer, and package contents before running the install command.
+Install the skill "Biochemistry and Molecular Biology-PMPH-10edition" (xllgreen/biochemistry-and-molecular-biology-pmph-10edition) from ClawHub only after those checks pass.
+Skill page: https://clawhub.ai/xllgreen/biochemistry-and-molecular-biology-pmph-10edition
+Keep the work scoped to this skill only.
+After install, help me finish setup from verified skill metadata.
+Use only the metadata you can verify from ClawHub; do not invent missing requirements.
+Ask before making any broader environment changes.
 ```
 
 ### 使用方式
@@ -167,10 +191,10 @@ Copyright © 2010 - 2026 Xiaomi. All Rights Reserved
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=xllgreen%2FBiochemistry-MolecularBiology-PMPH-10edition&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=xllgreen%2FBiochemistry-and-Molecular-Biology-PMPH-10edition&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=xllgreen/Biochemistry-MolecularBiology-PMPH-10edition&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=xllgreen/Biochemistry-MolecularBiology-PMPH-10edition&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=xllgreen/Biochemistry-MolecularBiology-PMPH-10edition&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=xllgreen/Biochemistry-and-Molecular-Biology-PMPH-10edition&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=xllgreen/Biochemistry-and-Molecular-Biology-PMPH-10edition&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=xllgreen/Biochemistry-and-Molecular-Biology-PMPH-10edition&type=date&legend=top-left" />
  </picture>
 </a>
